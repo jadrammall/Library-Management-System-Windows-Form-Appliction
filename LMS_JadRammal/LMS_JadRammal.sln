@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LMS_JadRammal", "LMS_JadRammal\LMS_JadRammal.csproj", "{45A8C4B3-E4E5-42EC-A4F5-34626346011A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LMS Application Setup", "LMS Application Setup\LMS Application Setup.vdproj", "{3F0D8958-422B-4A9D-B6F4-D0F541E30613}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45A8C4B3-E4E5-42EC-A4F5-34626346011A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A8C4B3-E4E5-42EC-A4F5-34626346011A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A8C4B3-E4E5-42EC-A4F5-34626346011A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A8C4B3-E4E5-42EC-A4F5-34626346011A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F0D8958-422B-4A9D-B6F4-D0F541E30613}.Debug|Any CPU.ActiveCfg = Debug
+		{3F0D8958-422B-4A9D-B6F4-D0F541E30613}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8EF86B-BB2C-44DE-8FDB-43A61A4904F7}
+	EndGlobalSection
+EndGlobal
